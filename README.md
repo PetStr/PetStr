@@ -1,5 +1,6 @@
 ## I'm PetStr 
-I'm interested in software. 
+
+My usage experience regarding software
 
 * Editors, Emacs looking into Visual Studio Code.
 * Build systems, I prefer Makefile. looking into cmake. Seems too much boilerplate to make it work. 
