@@ -5,7 +5,7 @@ My usage experience regarding software
 Generally I prefer to write for a multitude of platforms. Usually Linux, Windows and MacOS if this is applicable to the to application. I want to know how everything works so I would like to stay close to the metal so to say. I feel that if i am close, if something stops working it is easier to figure out what went wrong. Hiding behind a fancy IDE does not help there. 
 
 * Editors, Emacs looking into Visual Studio Code.
-* Build systems, I prefer Makefile. looking into cmake. Seems too much boilerplate to make it work. 
+* Build systems, I prefer Makefile. looking into cmake.  
 * Language, C++, is there anything else?
 * Compilers, anything out there. gcc, clang.
 * GUI - GTKMM. enuff said.
