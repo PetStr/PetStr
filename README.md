@@ -2,9 +2,9 @@
 
 This is a brief abstract of my experience regarding writing software.
 
-Generally I prefer to write for a multitude of platforms. Usually Linux, Windows and MacOS if this is applicable to the to application. I want to know how everything works so I would like to stay close to the metal so to say. I feel that if I am close, if something stops working it is easier to figure out what went wrong. Hiding behind a fancy IDE does not help there. 
+Generally I prefer to write for a multitude of platforms. I usually change ruthlessly between Linux, Windows and MacOS operating systems. Most projects have been  written on any one if them. At least a subset of the applications I write can be run and tested on any of them. I want to know how things works so I would like to stay close to the metal so to say. I feel that if I am close, if something stops working it is easier to figure out what went wrong. Hiding behind a fancy IDE does not help there. 
 
-* Editors, Emacs looking into Visual Studio Code.
+* Editors, right now mainly using Visual Studio Code.
 * Build systems, I prefer Makefile. looking into cmake.  
 * Language, C++, is there anything else?
 * Compilers, anything out there. gcc, clang.
@@ -23,7 +23,7 @@ Types of software i have written:
 
 I have never really worked with embedded stuff. Mostly it has been PC based. 
 
-Coding style. I prefer to start with a concrete example. Then after the problem evolved gratually go for appropriate abstractions. 
+Coding style. I prefer to start with a concrete example. Start to get something working and then evolved gratually go for appropriate abstractions. 
 
 <!--
 - 👋 Hi, I’m @PetStr
