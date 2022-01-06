@@ -14,7 +14,7 @@ Generally I prefer to write for a multitude of platforms. I usually change ruthl
 
 Types of software i have written:
 * Scientific calculations. Calculation of gas data thermodynamic stuff. Gas equilibrium, adiabatic flame temperature, general gas data. A sample of this code is just about to be released. 
-* Real time control, Combustion engine lab control. During my postgraduate studies I wrote an engine control / rig control program that was used for experiments on a combustion engine. 
+* Real time control (well sort if, soft real time control). Combustion engine lab control. During my postgraduate studies I wrote an engine control / rig control program that was used for experiments on a combustion engine. In short we used cylinder pressure signal to control combustion. Using Simulink Controller in the loop. Together with expert from automatic control department several advanved control topologies were tested. PID, LQG, MPC[pdh thesis].
 * Data aquisition. AD sampling.
 * Database query, pull data from SQL database to then process and put into spreadsheet. Hundreds of tables.
 * Controlling and monotoring sensors and actuators through Controller Area Network. Kvaser and socketcan.
