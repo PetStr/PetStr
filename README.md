@@ -21,7 +21,8 @@ Example of the types of software I have written:
 * Database query, pull data from SQL database to then process and put into spreadsheet.
 * Controlling and monotoring sensors and actuators through Controller Area Network. Kvaser and socketcan.
 * Playing with ISO 14229 and ISO-TP CAN. 
-* Processing logdata. blf and customs formats. 
+* Processing logdata. blf and customs formats.
+* [lblf](https://github.com/PetStr/lblf) is a small tool for parsing BLF.  
 
 I have never really worked with embedded stuff. Mostly it has been PC based. 
 
