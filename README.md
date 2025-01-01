@@ -18,9 +18,10 @@ Example of the types of software I have written:
 * Scientific calculations. Calculation of gas data thermodynamic stuff. Gas equilibrium, adiabatic flame temperature, general gas data. A sample of this code is just about to be released. 
 * Real time control (well sort if, soft real time control). Combustion engine lab control. During my postgraduate studies I wrote an engine control / rig control program that was used for experiments on a combustion engine. In short we used cylinder pressure signal to control combustion. Using Simulink Controller in the loop. Together with expert from automatic control department several advanved control topologies were tested. PID, LQG, MPC[pdh thesis].
 * Data aquisition. AD sampling.
-* Database query, pull data from SQL database to then process and put into spreadsheet.
-* Controlling and monotoring sensors and actuators through Controller Area Network. Kvaser and socketcan.
-* Playing with ISO 14229 and ISO-TP CAN. 
+* Database query (SQL) mostly MSSQL.
+* Software for analysis (C++), (ODBC), ([GTKMM](https://gtkmm.gnome.org/en/index.html)) into spreadsheet.
+* Controlling and monotoring sensors and actuators through Controller Area Network. Kvaser CAN and socketcan.
+* Handling (UDS) ISO 14229 and ISO-TP CAN, analysis and pentesting. 
 * Processing logdata. blf and customs formats.
 * [lblf](https://github.com/PetStr/lblf) is a small tool for parsing BLF.  
 
