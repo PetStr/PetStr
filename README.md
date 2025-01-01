@@ -2,7 +2,7 @@
 
 This is a brief abstract of my experience regarding writing advanced and compiled software.
 
-I do have experience with working with Matlab, Octave, Simulink, to some extent Python and some other obscure languages. 
+I do have experience with working with Matlab, Octave, Simulink, C, C++, to some extent Python and some other obscure languages.
 
 Generally I prefer to write for a multitude of platforms. I usually change ruthlessly between Linux, Windows and MacOS. If theoretically possible most software projects are written for many platform user whatever compilers that are available. I want to know how things works so I would like to stay close to the metal so to say. I feel that if I am close, if something stops working it is easier to figure out what went wrong. Hiding behind a fancy IDE does not help there. I prefer to understand how the build systems work and the dependencies that is used. Feel that is dangerous just to trust cmake to find dependencies without understanding that they mean.
 
@@ -11,7 +11,7 @@ Generally I prefer to write for a multitude of platforms. I usually change ruthl
 * Language, C++, is there anything else?
 * Compilers, anything out there. gcc, clang. compliant and multi platform.
 * GUI - GTKMM. enuff said.
-* Software platform, anything out there. Linux-intel, Linux-arm, Win10-intel.
+* Software platform, anything out there. Linux-intel, Linux-arm, Win10-intel, MacOS.
 * Hardware platforms, x86_32, x86_64, ARM-v7, ARM-M1.
 
 Example of the types of software I have written:
